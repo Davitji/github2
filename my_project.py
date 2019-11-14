@@ -1,0 +1,2 @@
+def LuasSegitiga(alas,Tinggi):
+    

@@ -1,5 +1,5 @@
-# Object file
-*.o
+def luasSegiempat(panjang,Lebar):
+    return panjang * Lebar
 
-# Ada Library Information
-*.ali
+    def main():
+    
